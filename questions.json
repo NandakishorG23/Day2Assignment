@@ -1,0 +1,18 @@
+[
+    {
+      "question": "What is the capital of India?",
+      "choices": ["(1) Bengaluru", "(2) Mumbai", "(3) New Delhi", "(4) Chennai"],
+      "answer": "(3) New Delhi"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "choices": ["(1) Mount Everest", "(2) K2", "(3) Kangchenjunga", "(4) Lhotse"],
+      "answer": "(1) Mount Everest"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "choices": ["(1) Jupiter", "(2) Saturn", "(3) Uranus", "(4) Neptune"],
+      "answer": "(1) Jupiter"
+    }
+  ]
+  
